@@ -27,5 +27,5 @@ Developed as a systems-level programming project for the Computer Systems Engine
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/mini-unix-shell.git](https://github.com/YourUsername/mini-unix-shell.git)
+   git clone [https://github.com/AbdoTarekH1/mini-unix-shell.git](https://github.com/AbdoTarekH1/mini-unix-shell.git)
    cd mini-unix-shell
